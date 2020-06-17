@@ -291,6 +291,8 @@ Code is:
   </body>
 </html>
 ```
+OUTPUT:
+![](https://github.com/mnigam504/AP-LabFile/blob/master/3.%20XHTML%20and%20CSS/op.png)
 # 4. Setting Up and Configure Apcahe Tomcat
 # 5. Undersatanding Modification Of Web.XML
 # 6. Creating website using PHP
