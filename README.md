@@ -1,6 +1,6 @@
 # AP-LabFile
 # 1. Creating HTML Web Page Forms
-Code is :
+ ## Code is :
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -69,11 +69,11 @@ Code is :
 </body>
 </html>
 ```
-OUTPUT:
+## OUTPUT:
 ![](https://github.com/mnigam504/AP-LabFile/blob/master/1.%20HTML%20form/OP1.png)
 
 # 2. Creating Home Page using HTML
-Code is:
+ ## Code is:
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -156,10 +156,10 @@ Code is:
   </body>
 </html>
 ```
-OUTPUT:
+## OUTPUT:
 ![](https://github.com/mnigam504/AP-LabFile/blob/master/2.%20HTML%20webPage/OP2.png)
 # 3. Creating XHTML and CSS WebPage
-Code is:
+ ## Code is:
 ```
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -291,7 +291,7 @@ Code is:
   </body>
 </html>
 ```
-OUTPUT:
+## OUTPUT:
 ![](https://github.com/mnigam504/AP-LabFile/blob/master/3.%20XHTML%20and%20CSS/op.png)
 # 4. Setting Up and Configure Apcahe Tomcat
 - Downloading Tomcat Server
@@ -399,8 +399,8 @@ OUTPUT:
   
 # 6. Creating website using PHP
 # 7. Uderstanding JavaScript
-Code is:
-- index.html
+ ## Code is:
+- ### index.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -486,7 +486,7 @@ Code is:
   </body>
 </html>
 ```
-- app.js
+- ### app.js
 ```
 // Listen for submit
 document.getElementById('loan-form').addEventListener('submit', function(e){
@@ -569,7 +569,7 @@ function clearError(){
   document.querySelector('.alert').remove();
 }
 ```
-Output:
+## Output:
 ![](https://github.com/mnigam504/AP-LabFile/blob/master/7.%20Understanding%20JavaScript/OP1.png)
 ![](https://github.com/mnigam504/AP-LabFile/blob/master/7.%20Understanding%20JavaScript/OP2.png)
 # 8. WebPage using JavaScript and PHP
