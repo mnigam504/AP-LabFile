@@ -155,8 +155,9 @@ Code is:
     </footer>
   </body>
 </html>
-
 ```
+OUTPUT:
+![](https://github.com/mnigam504/AP-LabFile/blob/master/2.%20HTML%20webPage/OP2.png)
 # 3. Creating XHTML and CSS WebPage
 Code is:
 ```
