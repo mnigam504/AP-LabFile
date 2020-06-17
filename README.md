@@ -69,6 +69,8 @@ Code is :
 </body>
 </html>
 ```
+OUTPUT:
+![](https://github.com/mnigam504/AP-LabFile/blob/master/1.%20HTML%20form/OP1.png)
 
 # 2. Creating Home Page using HTML
 Code is:
