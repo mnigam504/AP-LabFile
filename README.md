@@ -569,5 +569,8 @@ function clearError(){
   document.querySelector('.alert').remove();
 }
 ```
+Output:
+![](https://github.com/mnigam504/AP-LabFile/blob/master/7.%20Understanding%20JavaScript/OP1.png)
+![](https://github.com/mnigam504/AP-LabFile/blob/master/7.%20Understanding%20JavaScript/OP2.png)
 # 8. WebPage using JavaScript and PHP
 
