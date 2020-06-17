@@ -294,23 +294,23 @@ Code is:
 OUTPUT:
 ![](https://github.com/mnigam504/AP-LabFile/blob/master/3.%20XHTML%20and%20CSS/op.png)
 # 4. Setting Up and Configure Apcahe Tomcat
--Downloading Tomcat Server
- -1. Download the apache-tomcat 9.0.36 zip for required windows 32-bits or 64-bits zip file.( https://tomcat.apache.org/download-90.cgi)
- -2. Unzip the file in c:// for ease of use.
- -Check for the following in tomcat folder:
-  -1. bin
-  -2. logs
-  -3. webapps
-  -4. work
-  -5. temp
-  -6. conf
-  -7. lib
- -3. Install the java jdk and jre packages according to the system configuration.
- -4. Create environment variable JAVA_HOME and provide variable path the java jdk (path).
- -5. Create environment variable JRE_HOME and provide variable path the java jre (path).
- -6. Check if the environment variable is set in command prompt:
-  -set JAVA_HOME will return the variable path
-  -set JRE_HOME will return the variable path if set.
+- Downloading Tomcat Server
+ 1. Download the apache-tomcat 9.0.36 zip for required windows 32-bits or 64-bits zip file.( https://tomcat.apache.org/download-90.cgi)
+ 2. Unzip the file in c:// for ease of use.
+ - Check for the following in tomcat folder:
+   1. bin
+   2. logs
+   3. webapps
+   4. work
+   5. temp
+   6. conf
+   7. lib
+ 3. Install the java jdk and jre packages according to the system configuration.
+ 4. Create environment variable JAVA_HOME and provide variable path the java jdk (path).
+ 5. Create environment variable JRE_HOME and provide variable path the java jre (path).
+ 6. Check if the environment variable is set in command prompt:
+  - set JAVA_HOME will return the variable path
+  - set JRE_HOME will return the variable path if set.
  ![](https://github.com/mnigam504/AP-LabFile/blob/master/4.%20Setup%20and%20Config%20Apache%20TOMCAT/1.PNG)
 # 5. Undersatanding Modification Of Web.XML
 # 6. Creating website using PHP
