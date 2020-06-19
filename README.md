@@ -544,6 +544,9 @@ if(isset($_POST["form_submitted"]))
         }
 ?>
  ```
+ ## OUTPUT :
+ ![](https://github.com/mnigam504/AP-LabFile/blob/master/6.%20PHP%20Website/OP1.jpeg)
+ ![](https://github.com/mnigam504/AP-LabFile/blob/master/6.%20PHP%20Website/OP2.jpeg)
 # 7. Uderstanding JavaScript
  ## Code is:
 - ### index.html
